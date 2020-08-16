@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nada/catkin_ws/devel/setup.sh
